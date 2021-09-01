@@ -10935,6 +10935,16 @@ a.article-nav-next span {
   word-wrap: break-word;
   white-space: normal;
 }
+table td.tcell_middle {
+  vertical-align: middle;
+}
+table td.tcell_right {
+  text-align: right;
+}
+table td.bgc_gray {
+  background-color: #f5f5f5;
+  font-weight: 600;
+}
 .navbar-main {
   box-shadow: none;
 }
